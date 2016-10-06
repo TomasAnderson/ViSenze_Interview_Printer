@@ -11,6 +11,8 @@ The string buffer may contains blank, tab, newline and other characters.
 1. Maximum number characters in one line is *105*
 2. Maximum number of lines in one page is *99*
 3. Cannot split a word into different lines
+4. tab is converted into 4 spaces
+
 
 ## How to run
 
